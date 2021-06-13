@@ -2,6 +2,9 @@
 int
 main()
 {
-	int t;
+	int a,t;
+	printf ("Hello World!\n");
+	printf ("Hello World!\n");
+	printf ("Hello World!\n");
 	printf ("Hello World!\n");
 }
